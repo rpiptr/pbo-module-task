@@ -102,6 +102,11 @@ class Reptil : Hewan
     {
         this.panjangTubuh = panjangTubuh;
     }
+
+    public override string Suara()
+    {
+        return "Reptil ini bersuara";
+    }
 }
 
 class Singa : Mamalia
