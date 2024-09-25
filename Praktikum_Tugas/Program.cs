@@ -7,29 +7,29 @@
         Gajah gajah = new Gajah("Gajah", 8, 4);
         Ular ular = new Ular("Ular", 3, 2.12);
         Buaya buaya = new Buaya("Buaya", 12, 3.6);
-        zoo.TambahHewan(singa);
-        zoo.TambahHewan(gajah);
-        zoo.TambahHewan(ular);
-        zoo.TambahHewan(buaya);
-        zoo.DaftarHewan();
-        Console.WriteLine(singa.Suara());
-        Console.WriteLine(gajah.Suara());
-        Console.WriteLine(ular.Suara());
-        Console.WriteLine(buaya.Suara());
-        singa.Mengaum();
+        //zoo.TambahHewan(singa);
+        //zoo.TambahHewan(gajah);
+        //zoo.TambahHewan(ular);
+        //zoo.TambahHewan(buaya);
+        //zoo.DaftarHewan();
+        //Console.WriteLine(singa.Suara());
+        //Console.WriteLine(gajah.Suara());
+        //Console.WriteLine(ular.Suara());
+        //Console.WriteLine(buaya.Suara());
+        //singa.Mengaum();
 
-        //soal 1
-        Console.WriteLine(gajah.Suara());
-        Console.WriteLine(ular.Suara());
+        ////soal 1
+        //Console.WriteLine(gajah.Suara());
+        //Console.WriteLine(ular.Suara());
 
-        //soal 2
-        singa.Mengaum();
+        ////soal 2
+        //singa.Mengaum();
 
-        //soal 3
-        Console.WriteLine(singa.InfoHewan());
+        ////soal 3
+        //Console.WriteLine(singa.InfoHewan());
 
-        //soal 4
-        ular.Merayap();
+        ////soal 4
+        //ular.Merayap();
 
         //soal 5
         Reptil reptil = new Buaya("Reptil", 3, 3.1);
