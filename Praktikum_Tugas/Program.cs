@@ -1,6 +1,5 @@
 ﻿class Program
 {  
-    //TESSS LAGIIII
     static void Main(string[] args)
     {
         KebunBinatang zoo = new KebunBinatang();
