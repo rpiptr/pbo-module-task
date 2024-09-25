@@ -1,5 +1,5 @@
 ﻿class Program
-{  //jhykhgh
+{  
     static void Main(string[] args)
     {
         KebunBinatang zoo = new KebunBinatang();
